@@ -1,7 +1,10 @@
+para ver saida no terminal: tio -b 9600 /dev/ttyUSB0 -e
+
+
 ID do radio: 0012F8000000092F
 
-chave: 5205827ceaf4d7b16add0c5aa4f72c2b
+chave: 3f72524908a886a7f45523477d3fd064
 
-AT+APPKEY=52:05:82:7c:ea:f4:d7:b1:6a:dd:0c:5a:a4:f7:2c:2b
+AT+APPKEY=3f:72:52:49:08:a8:86:a7:f4:55:23:47:7d:3f:d0:64
 
-application/6903d583-2033-4844-bac5-c10fc0eb7d26/device/0012f8000000092f/event/up
+application/954e5ece-13c2-4ac3-aaad-5bd32ce66b84/device/0012f8000000092f/event/up
